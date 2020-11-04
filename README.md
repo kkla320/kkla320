@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Cooky](https://cooky.mvkk-software.de/), a recipe manager that helps you to organize your recipes.
+- 🌱 I’m currently learning Swift development with a focus on SwiftUI.
 <!--
 **kkla320/kkla320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
