@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Follow me on
-- [Mastodon](https://troet.cafe/@kkla320)
+You can follow me on <a rel="me" href="https://troet.cafe/@kkla320">Mastodon</a>
