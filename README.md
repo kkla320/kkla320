@@ -1,5 +1,3 @@
-<a rel="me" href="https://troet.cafe/@kkla320">Mastodon</a>
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Cooky](https://cooky.mvkk-software.de/), a recipe manager that helps you to organize your recipes.
